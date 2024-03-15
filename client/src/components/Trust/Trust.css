@@ -1,0 +1,19 @@
+.trust {
+
+    width: 1600px;
+    height: 862px;
+    text-align: center;
+    z-index: -1;
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+
+.trust-container {
+    background-image: url("./trust.png");
+    height: 1086px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}

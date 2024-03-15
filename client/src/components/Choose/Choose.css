@@ -1,0 +1,68 @@
+/* why-choose-us.css */
+.why-choose-us {
+    background-color: #D6E9F0;
+    text-align: center;
+    padding: 2rem;
+    width: 1840px;
+    height: 500px;
+    padding: 80px 72px 80px 72px;
+
+}
+
+.why-choose-us__title {
+    font-family: Lato;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.why-choose-us__grid {
+    background-color: #D6E9F0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.why-choose-us__grid-item {
+    background-color: #D6E9F0;
+    border-left-style: outset;
+    width: 258px;
+    height: 300px;
+}
+
+.why-choose-us__grid-item__number {
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 80px;
+
+}
+
+.why-choose-us__grid-item__text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 80px;
+
+}
+
+.why-choose-us__grid-item__description {
+
+    margin-top: 50px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}

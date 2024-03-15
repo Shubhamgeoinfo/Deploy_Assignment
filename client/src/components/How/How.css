@@ -1,0 +1,21 @@
+.how-one {
+    margin-top: 30px;
+    color: #071A45;
+    font-family: Lato;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 80px;
+    letter-spacing: 0.01em;
+    text-align: center;
+}
+
+.how-two {
+    color: #071A45;
+    margin-top: 30px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}

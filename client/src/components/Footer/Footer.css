@@ -1,0 +1,53 @@
+/* Footer component styles */
+
+.footer {
+    background-color: #071A45;
+    padding: 4rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    color: white;
+}
+
+.footer__container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer__col {
+    flex: 1;
+    margin-bottom: 2rem;
+}
+
+.footer__heading {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.footer__text {
+    line-height: 1.5;
+    color: white;
+}
+
+.footer__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer__list-item {
+    margin-bottom: 0.5rem;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer__form {
+    display: flex;
+    align-items: center;
+}
